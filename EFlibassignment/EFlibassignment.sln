@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFlibassignment", "EFlibassignment\EFlibassignment.csproj", "{1F40A91F-F043-4BD9-88CF-DAFA7AEA067F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_client", "EF_client\EF_client.csproj", "{8084EB1E-2EFC-445F-95C8-50658F2DB813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F40A91F-F043-4BD9-88CF-DAFA7AEA067F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F40A91F-F043-4BD9-88CF-DAFA7AEA067F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F40A91F-F043-4BD9-88CF-DAFA7AEA067F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F40A91F-F043-4BD9-88CF-DAFA7AEA067F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8084EB1E-2EFC-445F-95C8-50658F2DB813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8084EB1E-2EFC-445F-95C8-50658F2DB813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8084EB1E-2EFC-445F-95C8-50658F2DB813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8084EB1E-2EFC-445F-95C8-50658F2DB813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0425BD42-1212-4A53-BABE-AC23FE8A0553}
+	EndGlobalSection
+EndGlobal

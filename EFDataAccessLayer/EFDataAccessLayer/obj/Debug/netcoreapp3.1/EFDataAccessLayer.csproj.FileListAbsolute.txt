@@ -1,0 +1,10 @@
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\bin\Debug\netcoreapp3.1\EFDataAccessLayer.deps.json
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\bin\Debug\netcoreapp3.1\EFDataAccessLayer.dll
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\obj\Debug\netcoreapp3.1\EFDataAccessLayer.csprojAssemblyReference.cache
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\obj\Debug\netcoreapp3.1\EFDataAccessLayer.AssemblyInfoInputs.cache
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\obj\Debug\netcoreapp3.1\EFDataAccessLayer.AssemblyInfo.cs
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\bin\Debug\netcoreapp3.1\EFDataAccessLayer.runtimeconfig.json
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\bin\Debug\netcoreapp3.1\EFDataAccessLayer.runtimeconfig.dev.json
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\bin\Debug\netcoreapp3.1\EFDataAccessLayer.pdb
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\obj\Debug\netcoreapp3.1\EFDataAccessLayer.dll
+D:\kalyani\EntityFrameworkCore\EFDataAccessLayer\EFDataAccessLayer\obj\Debug\netcoreapp3.1\EFDataAccessLayer.pdb

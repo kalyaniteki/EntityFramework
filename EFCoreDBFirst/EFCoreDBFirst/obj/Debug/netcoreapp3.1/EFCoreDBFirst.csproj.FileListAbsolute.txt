@@ -1,0 +1,10 @@
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\bin\Debug\netcoreapp3.1\EFCoreDBFirst.deps.json
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\bin\Debug\netcoreapp3.1\EFCoreDBFirst.dll
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\obj\Debug\netcoreapp3.1\EFCoreDBFirst.csprojAssemblyReference.cache
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\obj\Debug\netcoreapp3.1\EFCoreDBFirst.AssemblyInfoInputs.cache
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\obj\Debug\netcoreapp3.1\EFCoreDBFirst.AssemblyInfo.cs
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\bin\Debug\netcoreapp3.1\EFCoreDBFirst.runtimeconfig.json
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\bin\Debug\netcoreapp3.1\EFCoreDBFirst.runtimeconfig.dev.json
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\bin\Debug\netcoreapp3.1\EFCoreDBFirst.pdb
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\obj\Debug\netcoreapp3.1\EFCoreDBFirst.dll
+D:\kalyani\EntityFrameworkCore\EFCoreDBFirst\EFCoreDBFirst\obj\Debug\netcoreapp3.1\EFCoreDBFirst.pdb

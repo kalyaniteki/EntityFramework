@@ -1,0 +1,10 @@
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\bin\Debug\netcoreapp3.1\EFlibassignment.deps.json
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\bin\Debug\netcoreapp3.1\EFlibassignment.dll
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\obj\Debug\netcoreapp3.1\EFlibassignment.csprojAssemblyReference.cache
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\obj\Debug\netcoreapp3.1\EFlibassignment.AssemblyInfoInputs.cache
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\obj\Debug\netcoreapp3.1\EFlibassignment.AssemblyInfo.cs
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\bin\Debug\netcoreapp3.1\EFlibassignment.runtimeconfig.json
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\bin\Debug\netcoreapp3.1\EFlibassignment.runtimeconfig.dev.json
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\bin\Debug\netcoreapp3.1\EFlibassignment.pdb
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\obj\Debug\netcoreapp3.1\EFlibassignment.dll
+D:\kalyani\EntityFrameworkCore\EFlibassignment\EFlibassignment\obj\Debug\netcoreapp3.1\EFlibassignment.pdb
